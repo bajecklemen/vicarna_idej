@@ -1,2 +1,5 @@
-# vicarna_idej
-Želvja grafika
+# Vičarna idej
+
+## Želvja grafika
+
+Kratka navodila za uporabo
