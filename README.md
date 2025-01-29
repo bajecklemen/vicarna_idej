@@ -57,4 +57,8 @@ Scratch [https://scratch.mit.edu/]
 
 Python - modul turtle [https://docs.python.org/3/library/turtle.html]
 
+Učbenik - informatika [https://lusy.fri.uni-lj.si/ucbenik/book/1201/index.html]
+
+W3Schools - Python [https://www.w3schools.com/python/]
+
 
